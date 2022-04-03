@@ -1,0 +1,7 @@
+{
+  "is-generic-project": true,
+  "platforms": [],
+  "changelog-options": {
+    "exclude-type": "chore,docs"
+  }
+}
