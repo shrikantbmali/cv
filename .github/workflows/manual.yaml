@@ -3,7 +3,7 @@ name: Build LaTex document
 on:
   push:
     tags:
-      - 'release/v*'
+      - 'v*'
 
 jobs:
   build_latex:
